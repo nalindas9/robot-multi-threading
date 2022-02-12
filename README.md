@@ -1,6 +1,8 @@
 # Robot publisher multithreading
 
-Implements multiple rates publishers using multithreading
+Implements multiple rates publishers using multithreading. Publishes the battery and location information of robot at 5 Hz and 1 Hz respectively.
 
-# TBD 
-Add demo video
+# Output
+
+https://user-images.githubusercontent.com/44141068/153691291-10c64868-ea52-41cb-90dd-3114b2e2b481.mp4
+
